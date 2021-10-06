@@ -1,0 +1,60 @@
+body { 
+	background-color: skyblue; 
+}
+h1 {
+   background-color: #f0e68c;
+   color: black;
+   text-align: center;
+}
+
+p { 
+ color: black;
+            
+}
+
+.head2{
+	background-color: #f0e68c;
+	text-align: center;
+	border: 3px dotted black;
+}
+
+
+#head3{
+	
+	font-size: 50px;
+}
+
+.box{
+	width: 30%;
+	height:100px;
+}
+.black{
+      background-color: black;
+}
+
+.yellow{
+      background-color: yellow;
+      margin: 100px;
+}
+.about{
+	border: 2px solid cyan;
+	width: 700px;
+    text-align: center;
+	color: white;
+	background: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	min-height: 80vh;
+	margin-left: 300px;
+}
+#firstpara{
+	color: white;
+}
+.welcome{
+	width:300px;
+	background: tomato;
+	color: white;
+	border:2px solid black;
+	padding:20px;
+	margin-left: 100px;
+}
